@@ -1,0 +1,31 @@
+.header { #b4cded;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+ul {
+    text-align: center;
+    background-color:black;
+}
+
+footer {
+background-color: #344966;
+text-color: white;
+}
+
+a:link {
+color: white;
+text-decoration: none;
+text-decoration: bold;
+}
+
+.p { 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.body {
+    background-color: #F0F4EF;
+}
